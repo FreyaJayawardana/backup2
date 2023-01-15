@@ -1,0 +1,55 @@
+
+
+nav i{
+	padding-right: 7px;
+}
+.jumbotron{
+	padding-top: 5rem;
+	background-color: #e6e6fa;
+}
+section{
+	padding-top: 7rem;
+}
+#image hr{
+	width: 180px;
+	margin: auto;
+}
+#murid{
+	background-color: #e6e6fa;
+}
+#murid hr{
+	width: 200px;
+	margin: auto;
+	margin-bottom: 10px;
+}
+.counter-box i{
+	font-size: 80px;
+	float: right;
+}
+.counter{
+	font-size: 60px;
+}
+#murid .card{
+	margin: auto;
+}
+#murid a{
+	color: black;
+	text-decoration: none;
+}
+#jam-nav{
+	color: white;
+	margin: auto;
+}
+.lead a{
+	text-decoration: none;
+	color: black;
+}
+footer a{
+	text-decoration: none;
+	color: white;
+}
+footer a:hover{
+	color: #696969;
+}
+
+	
